@@ -1,1 +1,1 @@
-# Awesome Quadratic Neural Networks
+# Awesome High order Neural Networks
