@@ -1,1 +1,1 @@
-# Awesome High order Neural Networks
+# Awesome High-Order Neural Networks
