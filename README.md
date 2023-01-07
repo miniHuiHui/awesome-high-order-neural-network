@@ -16,3 +16,7 @@ This repository focuses on high-order neural network architecture in computer vi
 [NeurIPS2022] [HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions](https://arxiv.org/pdf/2207.14284.pdf)
 
 [arxiv2022] [Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://arxiv.org/pdf/2211.11943.pdf)
+
+## Library
+
+[MLSys2022] [QuadraLib: A Performant Quadratic Neural Network Library for Architecture Optimization and Design Exploration](https://proceedings.mlsys.org/paper/2022/file/a5bfc9e07964f8dddeb95fc584cd965d-Paper.pdf)
