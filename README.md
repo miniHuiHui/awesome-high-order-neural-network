@@ -1,1 +1,1 @@
-Awesome Quadratic Neural Networks
+# Awesome Quadratic Neural Networks
