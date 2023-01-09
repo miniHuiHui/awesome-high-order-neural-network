@@ -29,6 +29,8 @@ This repository focuses on high-order neural network architecture in computer vi
 
 ## Polynomial Neural Networks
 
+Related Scholar: [Grigorios G Chrysos](https://grigorisg9gr.github.io/#)
+
 [TPAMI2021] [Deep Polynomial Neural Networks](https://ieeexplore.ieee.org/abstract/document/9353253?casa_token=ky0Wzm7kKykAAAAA:50GXi3hNogt2uFIGk4QmtjgE2iROmIkV4TKOCpspo5MPYBqUpcB3W_s1s3naUlWmN5hbR3CKsA)
 
 [CVPR2020] [P-nets: Deep Polynomial Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chrysos_P-nets_Deep_Polynomial_Neural_Networks_CVPR_2020_paper.pdf)
