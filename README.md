@@ -18,7 +18,6 @@ This repository focuses on high-order neural network architecture in computer vi
 
 [arxiv2022] [Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://arxiv.org/pdf/2211.11943.pdf)
 
-[ECCV2022] [Augmenting Deep Classifiers with Polynomial Neural Networks](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_40.pdf?pdf=inline%20link)
 
 ## Bilinear Pooling
 
@@ -28,6 +27,11 @@ This repository focuses on high-order neural network architecture in computer vi
 
 [TNNLS2021] [Detachable Second-Order Pooling: Toward High-Performance First-Order Networks](https://ieeexplore.ieee.org/abstract/document/9343714?casa_token=lUbtc3DOS5UAAAAA:ei-dpTN3-wtwNp0zj2LF2dOepPmX7r0MnKfN8mZVejWSES-5Hw1aZIBHRnhnpPO2NP70d_eBwA)
 
+## Polynomial Neural Networks
+
+[ECCV2022] [Augmenting Deep Classifiers with Polynomial Neural Networks](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_40.pdf?pdf=inline%20link)
+
+[ICLR2022] [The Spectral Bias of Polynomial Neural Networks](https://openreview.net/pdf?id=P7FLfMLTSEX)
 
 ## Library
 
