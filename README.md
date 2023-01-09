@@ -11,13 +11,19 @@ This repository focuses on high-order neural network architecture in computer vi
 [ICCV2021] [Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
 
 ## ConvNets
-[CVPR2019] [Global Second-order Pooling Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Global_Second-Order_Pooling_Convolutional_Networks_CVPR_2019_paper.pdf)
 
 [ICCV2017] [SORT: Second-Order Response Transform for Visual Recognition](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_SORT_Second-Order_Response_ICCV_2017_paper.pdf)
 
 [NeurIPS2022] [HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions](https://arxiv.org/pdf/2207.14284.pdf)
 
 [arxiv2022] [Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://arxiv.org/pdf/2211.11943.pdf)
+
+## Bilinear Pooling
+
+[ICCV2017] [Factorized Bilinear Models for Image Recognition](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Factorized_Bilinear_Models_ICCV_2017_paper.pdf)
+
+[CVPR2019] [Global Second-order Pooling Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Global_Second-Order_Pooling_Convolutional_Networks_CVPR_2019_paper.pdf)
+
 
 ## Library
 
