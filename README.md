@@ -18,6 +18,8 @@ This repository focuses on high-order neural network architecture in computer vi
 
 [arxiv2022] [Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://arxiv.org/pdf/2211.11943.pdf)
 
+[ECCV2022] [Augmenting Deep Classifiers with Polynomial Neural Networks](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_40.pdf?pdf=inline%20link)
+
 ## Bilinear Pooling
 
 [ICCV2017] [Factorized Bilinear Models for Image Recognition](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Factorized_Bilinear_Models_ICCV_2017_paper.pdf)
