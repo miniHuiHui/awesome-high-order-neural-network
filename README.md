@@ -29,7 +29,7 @@ This repository focuses on high-order neural network architecture in computer vi
 
 ## Polynomial Neural Networks
 
-[CVPR2020] [P-nets: Deep Polynomial Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/html/Chrysos_P-nets_Deep_Polynomial_Neural_Networks_CVPR_2020_paper.html)
+[CVPR2020] [P-nets: Deep Polynomial Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chrysos_P-nets_Deep_Polynomial_Neural_Networks_CVPR_2020_paper.pdf)
 
 [ECCV2022] [Augmenting Deep Classifiers with Polynomial Neural Networks](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_40.pdf?pdf=inline%20link)
 
