@@ -26,6 +26,8 @@ This repository focuses on high-order neural network architecture in computer vi
 
 [CVPR2019] [Global Second-order Pooling Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Global_Second-Order_Pooling_Convolutional_Networks_CVPR_2019_paper.pdf)
 
+[TNNLS2021] [Detachable Second-Order Pooling: Toward High-Performance First-Order Networks](https://ieeexplore.ieee.org/abstract/document/9343714?casa_token=lUbtc3DOS5UAAAAA:ei-dpTN3-wtwNp0zj2LF2dOepPmX7r0MnKfN8mZVejWSES-5Hw1aZIBHRnhnpPO2NP70d_eBwA)
+
 
 ## Library
 
