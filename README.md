@@ -33,6 +33,8 @@ This repository focuses on high-order neural network architecture in computer vi
 
 [ICLR2022] [The Spectral Bias of Polynomial Neural Networks](https://openreview.net/pdf?id=P7FLfMLTSEX)
 
+[NeurIPS2022] [Extrapolation and Spectral Bias of Neural Nets with Hadamard Product: a Polynomial Net Study](https://openreview.net/pdf?id=_cXUMAnWJJj)
+
 ## Library
 
 [MLSys2022] [QuadraLib: A Performant Quadratic Neural Network Library for Architecture Optimization and Design Exploration](https://proceedings.mlsys.org/paper/2022/file/a5bfc9e07964f8dddeb95fc584cd965d-Paper.pdf)
