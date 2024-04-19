@@ -29,6 +29,8 @@ This repository focuses on high-order neural network architecture in computer vi
 
 [TNNLS2021] [Detachable Second-Order Pooling: Toward High-Performance First-Order Networks](https://ieeexplore.ieee.org/abstract/document/9343714?casa_token=lUbtc3DOS5UAAAAA:ei-dpTN3-wtwNp0zj2LF2dOepPmX7r0MnKfN8mZVejWSES-5Hw1aZIBHRnhnpPO2NP70d_eBwA)
 
+[NeurIPS2019] [Deep Multimodal Multilinear Fusion with High-order Polynomial Pooling](https://proceedings.neurips.cc/paper/2019/hash/f56d8183992b6c54c92c16a8519a6e2b-Abstract.html)
+
 ## Polynomial Neural Networks
 
 Related Scholar: [Grigorios G Chrysos](https://grigorisg9gr.github.io/#)
