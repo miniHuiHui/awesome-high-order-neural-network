@@ -18,9 +18,15 @@ This repository focuses on high-order neural network architecture in computer vi
 
 [arxiv2022] [Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://arxiv.org/pdf/2211.11943.pdf)
 
-[CVPR2019] [Kervolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Kervolutional_Neural_Networks_CVPR_2019_paper.pdf)
+[NeurIPS2022] [Focal Modulation Networks](https://proceedings.neurips.cc/paper_files/paper/2022/file/1b08f585b0171b74d1401a5195e986f1-Paper-Conference.pdf)
 
 [ASP-DAC2024][QuadraNet: Improving High-Order Neural Interaction Efficiency with Hardware-Aware Quadratic Neural Networks](https://ieeexplore.ieee.org/abstract/document/10473936)
+
+
+
+
+
+[CVPR2019] [Kervolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Kervolutional_Neural_Networks_CVPR_2019_paper.pdf)
 ## Bilinear Pooling
 
 [ICCV2017] [Factorized Bilinear Models for Image Recognition](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Factorized_Bilinear_Models_ICCV_2017_paper.pdf)
