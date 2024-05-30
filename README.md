@@ -4,6 +4,8 @@ This repository focuses on high-order neural network architecture in computer vi
 
 We start with Attention-mechanisms, to Transformers, Element-wise Multiplication.
 
+* Our works.
+
 ## Attentions
 
 ## Transfomers
@@ -20,7 +22,10 @@ We start with Attention-mechanisms, to Transformers, Element-wise Multiplication
 
 [ICCV2017] [SORT: Second-Order Response Transform for Visual Recognition](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_SORT_Second-Order_Response_ICCV_2017_paper.pdf)
 
-[ASP-DAC2024] [QuadraNet: Improving High-Order Neural Interaction Efficiency with Hardware-Aware Quadratic Neural Networks](https://ieeexplore.ieee.org/abstract/document/10473936)
+* [ASP-DAC2024] [QuadraNet: Improving High-Order Neural Interaction Efficiency with Hardware-Aware Quadratic Neural Networks](https://ieeexplore.ieee.org/abstract/document/10473936)
+
+* [arxiv 2024] [QuadraNet V2: Efficient and Sustainable Training of High-Order Neural Networks with Quadratic Adaptation](https://arxiv.org/abs/2405.03192)
+
 
 ### Polynomial and High-Order Neural Networks
 
@@ -42,7 +47,7 @@ We start with Attention-mechanisms, to Transformers, Element-wise Multiplication
 
 [CVPR2024] [Rewrite the Stars](https://arxiv.org/pdf/2403.19967)
 
-
+* [arxiv 2024] [Infinite-dimensional Feature Interaction](https://arxiv.org/abs/2405.13972)
 
 ### Kernel Neural Networks
 
