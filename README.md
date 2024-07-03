@@ -66,7 +66,7 @@ We start with Attention-mechanisms, to Transformers, Element-wise Multiplication
 
 ## Computation Library
 
-[MLSys2022] [QuadraLib: A Performant Quadratic Neural Network Library for Architecture Optimization and Design Exploration](https://proceedings.mlsys.org/paper/2022/file/a5bfc9e07964f8dddeb95fc584cd965d-Paper.pdf)
+* [MLSys2022] [QuadraLib: A Performant Quadratic Neural Network Library for Architecture Optimization and Design Exploration](https://proceedings.mlsys.org/paper/2022/file/a5bfc9e07964f8dddeb95fc584cd965d-Paper.pdf)
 
 ## Related Scholar:
 
