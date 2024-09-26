@@ -47,7 +47,7 @@ We start with Attention-mechanisms, to Transformers, Element-wise Multiplication
 
 [CVPR2024] [Rewrite the Stars](https://arxiv.org/pdf/2403.19967)
 
-* [arxiv 2024] [Infinite-dimensional Feature Interaction](https://arxiv.org/abs/2405.13972)
+* [NeurIPS 2024] [Infinite-dimensional Feature Interaction](https://arxiv.org/abs/2405.13972)
 
 ### Kernel Neural Networks
 
